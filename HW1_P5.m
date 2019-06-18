@@ -1,5 +1,4 @@
 % AMATH 515 Homework 2 Problem 5
-%% Swati  Padmanabhan
 clear all; close all; clc
 
 %% set up data
